@@ -1,0 +1,19 @@
+{
+  "d_arch": "D_dil",
+  "params": 480784,
+  "config": {
+    "patch": 4,
+    "hidden": [
+      64,
+      64
+    ],
+    "kernels": [
+      3,
+      3
+    ],
+    "dilations": [
+      1,
+      2
+    ]
+  }
+}
