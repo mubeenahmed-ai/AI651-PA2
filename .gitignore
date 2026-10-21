@@ -1,0 +1,11 @@
+# large or machine-specific files (kept on Google Drive only)
+data/
+checkpoints/
+*.pt
+*.tmp
+*.tmp.npz
+pa2_code.zip
+pa2_outputs.zip
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
